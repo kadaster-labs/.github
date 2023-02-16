@@ -1,5 +1,7 @@
 # Kadaster Labs
 
+<img src="https://labs.kadaster.nl/assets/images/kadaster-logo-full.png" width="118" align="right"/>
+
 This GitHub organisation belongs to the Dutch Land Administration Office, [Kadaster](https://kadaster.nl).
 It is not the only Open Source collaboration organisation on GitHub ... but all experiments and labs will be developed and maintained in this GitHub organisation.
 For other Open Source projects and collaborations please checkout [GitHub.com/Kadaster](https://github.com/kadaster) and [GitHub.com/PDOK](https://github.com/pdok).
